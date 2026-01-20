@@ -1,9 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<br /><br />
 
 ## ⭐ Reviews Carousel  
 A smooth, interactive, and fully responsive **Reviews / Testimonials Carousel UI** built using HTML, CSS, and JavaScript.  
@@ -37,8 +34,7 @@ Perfect for:
 
 - Fully responsive reviews carousel  
 - Smooth slide and fade animations  
-- Navigation controls (next / previous)  
-- Auto-slide support (optional)  
+- Navigation controls (next / previous)    
 - Clean and modern testimonial cards  
 - Lightweight and easy to integrate  
 - Easy to customize content and styles  
